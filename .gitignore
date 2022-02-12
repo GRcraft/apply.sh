@@ -1,0 +1,3 @@
+# Do not include apply.sh & README.md in the patches
+apply.sh
+README.md
