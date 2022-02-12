@@ -2,7 +2,7 @@
 ## THIS APPLIES THE PATCHES FROM THE PATCH DIRECTORY
 ## https://github.com/GRcraft/apply.sh
 
-cd ..
+cd .
 echo $PWD
 
 for entry in ../patches/*.patch
